@@ -2,7 +2,7 @@
  This repository contains some common programs that are taught in computer networks.
 ## Description of programs in this repository:
 #### *Download_Webpage.py* and *Download_Webpage.c*
- The Download_Webpage.py is a **client-end program** that can **_download a webpage using TCP sockets_** in python and C. It does the following:
+ The Download_Webpage.py and Download_Webpage.c are **client-end programs** that can **_download a webpage using TCP sockets_** in python and C. It does the following:
  * Downloads a webpage based on specified target address.
  * Saves the file as downloaded_webpage.html
 ##### Usage:
