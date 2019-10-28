@@ -6,9 +6,9 @@
  * Downloads a webpage based on specified target address.
  * Saves the file as downloaded_webpage.html
 ##### Usage:
-  * *For execution in python*
+  * **For execution in python**
     * Open a new terminal by right-clicking in the directory where the file is present
     * Type *_python3 Download_Webpage.py_* and hit Enter
-  * *For execution in C*
+  * **For execution in C**
     * Open a new terminal by right-clicking in the directory where the file is present
-    * Type *_gcc Download_Webpage.c -o download_* and hit Enter. This will generate an output file *download* after compilation. To see the output file type *_./download_* and hit Enter.
+    * Type **_gcc Download_Webpage.c -o download_** and hit Enter. This will generate an output file **download** after compilation. To see the output file type **_./download_** and hit Enter.
